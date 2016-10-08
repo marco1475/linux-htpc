@@ -1,8 +1,8 @@
 This Wiki contains all information (instructions, command snippets, and files) necessary to set up a Linux HTPC.
 
-0. [Prerequisites](Prerequisites)
+0. [Prerequisites](linux-htpc/prerequisites.md)
 
-9. [Common Tasks](Common Tasks)
+9. [Common Tasks](linux-htpc/common_tasks.md)
 
 #Installing the Operating System
 
